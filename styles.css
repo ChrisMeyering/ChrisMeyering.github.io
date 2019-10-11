@@ -22,3 +22,11 @@
     background-color: #4caf50;
     color: white;
 }
+
+.rounded_img {
+    border-radius: 24px;
+    width: 30%;
+    height: auto;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
